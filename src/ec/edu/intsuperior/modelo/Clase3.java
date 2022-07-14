@@ -10,43 +10,43 @@ package ec.edu.intsuperior.modelo;
  * @author User
  */
 public class Clase3 {
- public static void metodoClase1() {
-        System.out.println("metodo 1 de clase");
+ public static void metodoClase11() {
+        System.out.println("metodo 11 de clase");
     }
 
-    public static void metodoClase2() {
-        System.out.println("metodo 2 de clase");
+    public static void metodoClase12() {
+        System.out.println("metodo 12 de clase");
     }
 
-    public static void metodoClase3() {
-        System.out.println("metodo 3 de clase");
+    public static void metodoClase13() {
+        System.out.println("metodo 13 de clase");
     }
 
-    public static void metodoClase4() {
-        System.out.println("metodo 4 de clase");
+    public static void metodoClase14() {
+        System.out.println("metodo 14 de clase");
     }
 
-    public static void metodoClase5() {
-        System.out.println("metodo 5 de clase");
+    public static void metodoClase15() {
+        System.out.println("metodo 15 de clase");
     }
 
-    public void metodoInstancia_1() {
-        System.out.println("metodo de instancia 1");
+    public void metodoInstancia_11() {
+        System.out.println("metodo de instancia 11");
     }
 
-    public void metodoInstancia_2() {
-        System.out.println("metodo de instancia 2");
+    public void metodoInstancia_12() {
+        System.out.println("metodo de instancia 12");
     }
 
-    public void metodoInstancia_3() {
-        System.out.println("metodo de instancia 3");
+    public void metodoInstancia_13() {
+        System.out.println("metodo de instancia 13");
     }
 
-    public void metodoInstancia_4() {
-        System.out.println("metodo de instancia 4");
+    public void metodoInstancia_14() {
+        System.out.println("metodo de instancia 14");
     }
 
-    public void metodoInstancia_5() {
-        System.out.println("metodo de instancia 5");
+    public void metodoInstancia_15() {
+        System.out.println("metodo de instancia 15");
     }
 }   
