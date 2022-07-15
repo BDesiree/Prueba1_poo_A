@@ -3,7 +3,7 @@ package ec.edu.intsuperior.vista;
 import ec.edu.intsuperior.modelo.*;
 /**
  *
- * @author User
+ * @author Desiree Bajaña
  */
 public class Aplicacion {
 
